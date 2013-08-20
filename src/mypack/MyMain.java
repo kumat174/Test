@@ -7,6 +7,8 @@ public class MyMain {
 		System.out.println("hallo welt");
 
 		System.out.println("EINE zeile für EGit");
+		
+		System.out.println("gibt das jetzt ein history eintrag?");
 	}
 
 }

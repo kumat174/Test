@@ -8,8 +8,6 @@ public class MyMain {
 
 		System.out.println("EINE zeile für EGit");
 		
-		System.out.println("gibt das jetzt ein history eintrag?");
-		
 		System.out.println("remot push");
 	}
 

@@ -11,6 +11,8 @@ public class MyMain {
 		new Klasse2();
 		
 		System.out.println("eine zeile nach Klasse2");
+		
+		new KlasseVonProjektVersuch6();
 	}
 
 }

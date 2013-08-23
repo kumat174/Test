@@ -13,6 +13,8 @@ public class MyMain {
 		System.out.println("eine zeile nach Klasse2");
 		
 		new KlasseVonProjektVersuch6();
+		
+		System.out.println("von ttzzzzttt");
 	}
 
 }

@@ -9,6 +9,8 @@ public class MyMain {
 		System.out.println("remot push");
 		
 		new Klasse2();
+		
+		System.out.println("eine zeile nach Klasse2");
 	}
 
 }

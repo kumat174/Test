@@ -7,6 +7,8 @@ public class MyMain {
 		System.out.println("hallo welt");
 
 		System.out.println("remot push");
+		
+		new Klasse2();
 	}
 
 }

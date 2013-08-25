@@ -20,7 +20,7 @@ public class MyMain {
 		
 		System.out.println("MELDUNG VOn Versuch6");
 		
-		System.out.println("Zeile nur im neuen branch");
+		System.out.println("Zeile n111ur im neuen branch");
 	}
 
 }

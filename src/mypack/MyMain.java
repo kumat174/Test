@@ -15,6 +15,8 @@ public class MyMain {
 		new KlasseVonProjektVersuch6();
 		
 		System.out.println("von ttzzzzttt");
+		
+		System.out.println("zeile for stage");
 	}
 
 }

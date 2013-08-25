@@ -17,6 +17,8 @@ public class MyMain {
 		System.out.println("von ttzzzzttt");
 		
 		System.out.println("zeile for stage");
+		
+		System.out.println("MELDUNG VOn Versuch6");
 	}
 
 }

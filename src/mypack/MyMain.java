@@ -21,6 +21,8 @@ public class MyMain {
 		System.out.println("MELDUNG VOn Versuch6");
 		
 		System.out.println("Zeile im neuen branch");
+		
+		System.out.println("pullTest");
 	}
 
 }

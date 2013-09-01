@@ -23,6 +23,8 @@ public class MyMain {
 		System.out.println("Zeile im neuen branch");
 		
 		System.out.println("pullTest");
+		
+		System.out.println("Eine Zeile für die stash commit message");
 	}
 
 }

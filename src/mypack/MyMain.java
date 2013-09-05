@@ -25,6 +25,8 @@ public class MyMain {
 		System.out.println("pullTest");
 		
 		System.out.println("Eine Zeile für die stash commit message");
+		
+		System.out.println("neue ze");
 	}
 
 }
